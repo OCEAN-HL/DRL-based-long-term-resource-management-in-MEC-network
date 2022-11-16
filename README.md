@@ -1,5 +1,7 @@
 # DRL-based-long-term-resource-management-in-MEC-network
 
+![image](https://user-images.githubusercontent.com/82140899/202213539-acadf116-4cfd-422b-99df-1ea56b622a94.png)
+
 A Pytorch implementation of the single agent DQN and multi agent deep deterministic policy gradients(MADDPG) algorithm to manage long term resource scheduling between Multi-access edge servers (MECs)
 
 Paper is publised in Transactions on Network and Service Management entitled "DRL-Based Long-Term Resource Planning for Task Offloading Policies in Multi-Server Edge Computing Networks". You can find it at https://ieeexplore.ieee.org/document/9831431. This work is supported by European Commission's Horizon 2020 research and innovation program under grant agreement No 871428, 5G-CLARITY project.
